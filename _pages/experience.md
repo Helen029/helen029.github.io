@@ -5,7 +5,7 @@ title: "Experiences"
 
 <div class="experience-grid">
 {% for exp in site.data.experiences %}
-  <div class="experience-card">
+  <a href="{{ exp.link | relative_url }}" class="experience-card">
     <div class="logo-wrap">
       <img src="{{ exp.logo | relative_url }}" alt="{{ exp.company }} logo" loading="lazy" />
     </div>
@@ -17,6 +17,6 @@ title: "Experiences"
       <p class="title">{{ exp.title }}</p>
       <p class="description">{{ exp.description }}</p>
     </div>
-  </div>
+  </a>
 {% endfor %}
 </div>
