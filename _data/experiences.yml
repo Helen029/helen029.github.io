@@ -1,0 +1,34 @@
+# _data/experiences.yml
+- company: Bloom Energy
+  title: Operations Research Intern
+  dates: Jun 2024 - Aug 2024
+  logo: /assets/images/BElogo.png
+  link: https://www.bloomenergy.com
+  description: >-
+    •	Identified 5-10% cost reductions in direct spending logistics within the supply chain department by building a mixed integer programming (MIP) Gurobi model that optimizes part-to-manufacturer sourcing assignments <br>
+    •	Improved the usability of bills of materials (BOMs) by creating Python scripts to transform and map over 26,000 records of hierarchical data into a tabular format, streamlining workflow for other team members <br>
+    •	Arranged cross-functional meetings to gain insight on unusual data and current business strategies with manufacturers <br>
+
+
+- company: ISO New England
+  title: Compliance Data Analyst Intern
+  dates: Jun 2023 - Aug 2023
+  logo: /assets/images/ISO-logo.png
+  link: https://www.iso-ne.com
+  description: >-
+    •	Developed a Python script to detect and extract legal annotations from 2000+ page PDF compliance documents, automating the initial document review process for the compliance team <br>
+    •	Wrote user-friendly documentation to help non-technical staff integrate Python script into department tasks <br>
+    •	Engaged in meetings discussing NERC updates, tariff compliance, and improvement of project management systems <br>
+
+
+- company: Geopath
+  title: Data Analyst Intern
+  dates: Jun 2022 - Aug 2022
+  logo: /assets/images/geopath-logo.jpg
+  link: https://geopath.org
+  description: >-
+    •	Created pivot tables and graphs to visualize and compare trends between pre- and post-pandemic advertisement impressions for multiple DMAs to ensure training data integrity for forecasting models <br>
+    •	Executed SQL queries in Sigma Computing to pull and join data across multiple tables in Snowflake <br>
+    •	Analyzed data and investigated outliers to perform data quality analysis on within various CBSAs across the US <br>
+
+

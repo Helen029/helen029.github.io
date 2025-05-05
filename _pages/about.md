@@ -1,8 +1,14 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Education
+I am currently a Master of Engineering student at Cornell University studying Operations Research and Information Engineering with a concentration in Data Analytics. I completed my Bachelor of Science in Operations Research at Cornell University in May 2024.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## Extracurriculars
+During my time at Cornell, I enjoyed engaging in many clubs and activities. I was fundraising chair in 2021 for Project Hope, a club that raises awareness for underprivileged education in rural China. I was a member of the Big Red Marching Band, where I was a Show Committee Chair in 2022 and Colorguard Co-Captain in 2023. I was President of the Origami Club in 2023. I was a member of the Business and Operations subteam on the Cornell Autonomous Sailboat Project Team.
+
+## Hobbies
+
+Outside of work and school, I enjoy running, playing tennis, and hiking. On a rainy day I like to play piano, crochet, and make origami.
